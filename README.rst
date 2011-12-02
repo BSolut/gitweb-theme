@@ -1,3 +1,7 @@
+===============
+Theme used at http://github.com/BSolut/GitWeb
+===============
+
 ================
 Theme for gitweb
 ================
